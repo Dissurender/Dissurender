@@ -1,9 +1,7 @@
-- Hi, I’m Rhyn
-- I’m interested in Programing and Computer technologies
-- I’m currently learning OO with C++ and Java, while dabbling in Full-Stack Developement
-- How to reach me: https://twitter.com/RhynOgg
+<h1>Hi, I’m Rhyn</h1>
 
-<!---
-Dissurender/Dissurender is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<ul>
+  <li><span>I’m interested in Programing and Computer technologies</span></li>
+  <li><span>I’m currently learning OO with C++ and Java, while dabbling in Full-Stack Developement</span></li>
+  <li><span>How to reach me: <a href="https://twitter.com/RhynOgg">Twitter</a></span></li>
+</ul>

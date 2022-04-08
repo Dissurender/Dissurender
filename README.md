@@ -1,4 +1,4 @@
-Hi 👋 My name is Rhyn Ogg
+Hi 👋 My name is Rhyn
 =========================
 
 Software Engineer

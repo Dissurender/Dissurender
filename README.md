@@ -8,7 +8,7 @@ After many years in another industry, I am finally able to pivot into the tech s
 
 *   🌍  I'm based in Dallas, TX
 *   ✉️  You can contact me at [rhynogg@gmail.com](mailto:rhynogg@gmail.com)
-*   🧠  I'm learning intermediate Java concepts and JavaScript for Web Development
+*   🧠  I'm currently utilizing OO concepts and JavaScript for Web Development
 
 Skills
 ------

@@ -6,7 +6,7 @@ Software Engineer
 
 
 *   🌍  I'm based in Dallas, TX
-*   ✉️  You can contact me at [rhynogg@gmail.com](mailto:rhynogg@gmail.com)
+*   ✉️  You can contact me at [rhynogg@pm.me](mailto:rhynogg@pm.me)
 *   🧠  I'm currently utilizing OO concepts and JavaScript for Web Development.
 
 Skills

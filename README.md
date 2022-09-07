@@ -1,13 +1,13 @@
-Hi 👋 My name is Rhyn
+Hi, I'm Rhyn
 =========================
 
 Software Engineer
 -----------------
 
 
-*   🌍  I'm based in Dallas, TX
+*   🌍  Dallas, TX
 *   ✉️  You can contact me at [rhynogg@pm.me](mailto:rhynogg@pm.me)
-*   🧠  I'm currently utilizing OO concepts and JavaScript for Web Development.
+*   🧠  I'm currently utilizing JavaScript, Go and Svelte for Web Development.
 
 Skills
 ------
@@ -29,7 +29,6 @@ Socials
         
 <a href="https://www.twitter.com/RhynOgg" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
                       
-Badges
 ------
 
 <b>My GitHub Stats</b>

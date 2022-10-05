@@ -4,7 +4,7 @@
 
 *   🌍  Dallas, TX
 *   ✉️  You can contact me at [rhynogg@pm.me](mailto:rhynogg@pm.me)
-*   🧠  I'm currently utilizing JavaScript, Go and Svelte for Web Development.
+*   🧠  I'm currently using Svelte, Astro and Go for Web Development.
 
 Skills
 ------

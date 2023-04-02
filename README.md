@@ -1,10 +1,10 @@
 # Rhyn
-### Software Engineer
+### Software Developer
 
 
 *   🌍  Dallas, TX
 *   ✉️  You can contact me at [rhynogg@pm.me](mailto:rhynogg@pm.me)
-*   🧠  I'm currently using Svelte, Astro and Go for Web Development.
+*   🧠  I'm currently using Svelte, Astro, Node, and Go.
 
 Skills
 ------

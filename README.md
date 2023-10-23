@@ -4,7 +4,7 @@
 
 *   🌍  Dallas, TX
 *   ✉️  You can contact me at [rhynogg@pm.me](mailto:rhynogg@pm.me)
-*   🧠  I'm currently using Astro, Java, Python, and Go.
+*   🧠  I'm currently using Astro, JavaScript, Java, and Go.
 
 Skills
 ------

@@ -4,7 +4,7 @@
 
 *   🌍  Dallas, TX
 *   ✉️  You can contact me at [devrhyn@gmail.com](mailto:devrhyn@gmail.com)
-*   🧠  I'm currently using Astro, JavaScript, Java, and Go.
+*   🧠  I'm currently using React, JavaScript, Java, and Go.
 
 Skills
 ------
